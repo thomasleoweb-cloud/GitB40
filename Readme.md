@@ -4,6 +4,6 @@
 
 ##About Me: lorem50
 
-###Languages:
+###Languages Known:
 1.English
 2.Tamil
