@@ -1,9 +1,13 @@
-#Thomas Leo
+# Thomas Leo
 
-##Software Engineer
+## Software Engineer
 
-##About Me: lorem50
+## About Me: lorem50
 
-###Languages Known:
-1.English
-2.Tamil
+### Languages Known:
+- English
+- Tamil
+
+### Experience:
+- Blazon
+- Jiametric Technologies
